@@ -8,3 +8,4 @@ After cloning it is easy to push rather than having it remotely.
 
 
 This was a Demo Repo where i used to learn and practice basix git and github commands.
+This is a waste git repo created just to learn and practice git and github
